@@ -17,7 +17,9 @@ Criado para participar de uma competição por André Young, o jogo alcançou 3�
 
 - Como Jogar
 
-Faça o download do arquivo .html.
+[Jogue agora](https://lubisca.github.io/MEAJUDA.EXE.html/)
+
+Ou Faça o download do arquivo .html.
 
 Abra o arquivo em um navegador moderno (Chrome, Firefox, Edge).
 
