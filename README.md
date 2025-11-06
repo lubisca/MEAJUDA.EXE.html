@@ -12,7 +12,7 @@ O jogo foi construído inteiramente em um único arquivo HTML, sem a necessidade
 
 - 🎖️ Reconhecimento:
   
-Criado para participar de uma competição organizada por André Young, o jogo alcançou 3º lugar entre os mais jogados, 1º lugar entre os mais ranqueados e 1º lugar geral em avaliação de qualidade, consolidando-se como um dos destaques do evento.
+Criado para participar de uma competição por André Young, o jogo alcançou 3º lugar entre os mais jogados, 1º lugar entre os mais ranqueados e 1º lugar geral em avaliação de qualidade, consolidando-se como um dos destaques do evento.
 
 
 - Como Jogar
