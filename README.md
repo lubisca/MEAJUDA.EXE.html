@@ -5,14 +5,20 @@ INICIALIZANDO PROCESSO...
 ERRO: INSTÂNCIA CORROMPIDA DETECTADA.
 ...INICIANDO MESMO ASSIM.
 
+
+
 ME://AJUDA.EXE é um jogo rogue-like de tiro em 2D com uma estética de terror analógico (VHS). Preso dentro de uma fita de vídeo corrompida, você deve lutar contra ondas infinitas de entidades feitas de ruído, estática e dados esquecidos.
 
 O jogo foi construído inteiramente em um único arquivo HTML, sem a necessidade de assets externos de áudio ou imagem. Todos os efeitos visuais e sonoros são gerados programaticamente, criando uma experiência coesa e perturbadora.
 
 
+
+
 - 🎖️ Reconhecimento:
   
 Criado para participar de uma competição por André Young no [site](https://seraph-ai-jam.site/) de organizaçao, o jogo alcançou 🥉3º lugar entre os mais jogados, 🥇1º lugar entre os mais ranqueados e 🥇1º lugar geral em avaliação de qualidade, consolidando-se como um dos destaques do evento.
+
+
 
 
 - Como Jogar
@@ -26,6 +32,8 @@ Abra o arquivo em um navegador moderno (Chrome, Firefox, Edge).
 A tela inicial aparecerá. Clique em qualquer lugar para começar.
 
 
+
+
 - Controles
 
 A / D: Mover para a Esquerda / Direita
@@ -35,6 +43,8 @@ Barra de Espaço: Pular
 Mouse: Mirar
 
 Clique (Segurar): Atirar (disparo automático com cooldown)
+
+
 
 
 - Funcionalidades
