@@ -19,11 +19,12 @@ A estética, os efeitos e o som são gerados inteiramente por código.
 
 Criado por André Young para uma competição no site seraph-ai-jam, o jogo alcançou:
 
-3º lugar entre os mais jogados
+🥉3º lugar entre os mais jogados
 
-1º lugar entre os mais ranqueados
 
-1º lugar geral em qualidade
+🥇1º lugar entre os mais ranqueados
+
+🥇1º lugar geral em qualidade
 
 Um dos maiores destaques do evento.
 
