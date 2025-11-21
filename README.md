@@ -1,4 +1,4 @@
-- ME://AJUDA.EXE
+## **ME://AJUDA.EXE**
 
 Um rogue-like preso dentro de uma fita corrompida.
 
@@ -6,7 +6,7 @@ CARREGANDO SISTEMA...
 ERRO: INSTÂNCIA CORROMPIDA DETECTADA.
 ...continuando mesmo assim.
 
-- Descrição
+## *Descrição*
 
 ME://AJUDA.EXE é um jogo rogue-like de tiro em 2D com estética de terror analógico (VHS).
 Você está preso dentro de uma fita de vídeo danificada — e as entidades que vivem nela não pretendem deixar você escapar.
@@ -15,12 +15,11 @@ Todo o jogo existe dentro de um único arquivo HTML.
 Sem assets externos, sem imagens importadas, sem arquivos de áudio.
 A estética, os efeitos e o som são gerados inteiramente por código.
 
-- Reconhecimento
+## *Reconhecimento*
 
 Criado por André Young para uma competição no site seraph-ai-jam, o jogo alcançou:
 
 🥉3º lugar entre os mais jogados
-
 
 🥇1º lugar entre os mais ranqueados
 
@@ -28,7 +27,7 @@ Criado por André Young para uma competição no site seraph-ai-jam, o jogo alca
 
 Um dos maiores destaques do evento.
 
-- Como Jogar
+## *Como Jogar*
 
 Versão online:
 [Clique Aqui](https://lubisca.github.io/MEAJUDA.EXE.html/)
@@ -37,7 +36,7 @@ Ou faça o download do arquivo .html e abra em qualquer navegador moderno (Chrom
 
 Na tela inicial, clique em qualquer lugar para começar.
 
-- Controles
+# *Controles*
 
 A / D — mover
 
@@ -47,7 +46,9 @@ Mouse — mirar
 
 Clique (segurar) — atirar (com cooldown)
 
-- Funcionalidades
+## *Funcionalidades*
+
+```diff
 Estética VHS Completa
 
 Scanlines, ruído estático, aberração cromática, flicker, distorções e glitches que se intensificam conforme o jogador sofre dano.
@@ -85,3 +86,4 @@ Menu de Debug Secreto
 
 Durante a introdução, digite o chamado “Código Kojima”:
 W, W, S, S, A, D, A, D, J, K
+´´´
